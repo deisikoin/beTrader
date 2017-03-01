@@ -1,2 +1,2 @@
-# BeTrader
+# beTrader
 Trading platform for cryptocurrencies
